@@ -14,7 +14,10 @@ namespace choice
            
             switch (choice)
             {
-
+                case '4':
+                    int del = A / B;
+                    Console.WriteLine($"частное:{del}");
+                    break;
             }
             
         }
