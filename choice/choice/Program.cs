@@ -14,7 +14,10 @@ namespace choice
            
             switch (choice)
             {
-
+                case '1':
+                    int sum = A + B;
+                    Console.WriteLine($"сумма:{sum}");
+                    break;
             }
             
         }
