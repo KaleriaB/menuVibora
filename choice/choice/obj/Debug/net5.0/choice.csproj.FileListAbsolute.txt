@@ -1,0 +1,16 @@
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.exe
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.deps.json
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.runtimeconfig.json
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.runtimeconfig.dev.json
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.dll
+D:\menuVibora\choice\choice\bin\Debug\net5.0\ref\choice.dll
+D:\menuVibora\choice\choice\bin\Debug\net5.0\choice.pdb
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.csproj.AssemblyReference.cache
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.GeneratedMSBuildEditorConfig.editorconfig
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.AssemblyInfoInputs.cache
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.AssemblyInfo.cs
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.csproj.CoreCompileInputs.cache
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.dll
+D:\menuVibora\choice\choice\obj\Debug\net5.0\ref\choice.dll
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.pdb
+D:\menuVibora\choice\choice\obj\Debug\net5.0\choice.genruntimeconfig.cache
