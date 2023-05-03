@@ -14,8 +14,11 @@ namespace choice
            
             switch (choice)
             {
-                
-               
+
+                case '2':
+                    int sub = A - B;
+                    Console.WriteLine($"разность:{sub}");
+                    break;
             }
             
         }
