@@ -14,7 +14,10 @@ namespace choice
            
             switch (choice)
             {
-
+                case '3':
+                    int mul = A * B;
+                    Console.WriteLine($"произведение:{mul}");
+                    break;
             }
             
         }
