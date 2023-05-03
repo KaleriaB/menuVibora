@@ -27,7 +27,10 @@ namespace choice
                     Console.WriteLine($"произведение:{mul}");
                     break;
 
-
+                case '4':
+                    int del = A / B;
+                    Console.WriteLine($"частное:{del}");
+                    break;
             }
             
         }
