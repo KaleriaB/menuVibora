@@ -14,9 +14,15 @@ namespace choice
            
             switch (choice)
             {
+<<<<<<< HEAD
                 case '4':
                     int del = A / B;
                     Console.WriteLine($"частное:{del}");
+=======
+                case '1':
+                    int sum = A + B;
+                    Console.WriteLine($"сумма:{sum}");
+>>>>>>> plus
                     break;
             }
             
